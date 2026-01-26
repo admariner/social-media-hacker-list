@@ -121,17 +121,17 @@ If you would like to add a project or suggest some other correction, edit this r
 
 Apps that can be used across multiple social media apps.
 
-|  # |  |  | Name | Platform | Description |
-|:--:| --- | --- | --- | --- | --- |
-| 1. | 🟩 | | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
-| 2. | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
-| 3. | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
-| 4. | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
-| 5. | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
-| 6. | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
-| 7. | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
-| 8. | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
-| 9. | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
+|  #  |  |  | Name | Platform | Description |
+|:---:| --- | --- | --- | --- | --- |
+| 1.  | 🟩 | | [AI Anonymizer](https://generated.photos/anonymizer) | Web | Generate a synthetic profile picture |
+| 2.  | 🟧 | | [Buffer](https://buffer.com/) | Web | Automation, scheduling, and analytics |
+| 3.  | 🟩 | | [Canva](https://www.canva.com/) | Web | Design social media graphics | 
+| 4.  | 🟩 | | [Carbon](https://carbon.now.sh/) | Web | Create images of code for sharing | 
+| 5.  | 🟨 | | [dlvr.it](https://dlvrit.com) | Web | social media automation |
+| 6.  | 🟩 | | [DynaPictures](https://dynapictures.com/) | Web | Auto-generate banners for social media |
+| 7.  | 🟦 | | [Fastory](https://www.fastory.io/) | Web | Stories editor for Snapchat, Facebook, Instagram |
+| 8.  | ⬛ | [❋](https://github.com/Ananto30/hadith-every-hour) | [Hadith Every Hour](https://github.com/Ananto30/hadith-every-hour) | Python | Bot posting to Twitter and Facebook using Github actions |
+| 9.  | 🟨 | | [Hootsuite](https://www.hootsuite.com/) | iOS, Android, Web | Manage all your social media | 
 | 10. | 🟨 | | [HypeFury](https://hypefury.com/) | Web | Grow & monetize your social media | 
 | 11. | 🟫 | | [Juicer](https://www.juicer.io/) | Web | Aggregated social media feed for website |
 | 12. | 🟦 | | [Kapwing](https://www.kapwing.com/) | Web | Create images, videos, and GIFs. |
@@ -143,13 +143,12 @@ Apps that can be used across multiple social media apps.
 | 18. | 🟦 | | [Storybeat](https://www.storybeat.com/) | iOS, Android | Add music to your stories | 
 | 19. | 🟧 | | [Storyheap](https://storyheap.com/) | Web | Analytics for Snapchat & Instagram Stories | 
 | 20. | 🟧 | | [Supportivekoala](https://supportivekoala.com/) | Web | Helps you and your team automate social media visuals, marketing images more | 
-| 21. | 🟫 | [❋](https://github.com/avdeev/vanilla-sharing) | [Vanilla Sharing](http://alexey-avdeev.com/vanilla-sharing/demo/) | JavaScript | Small js package for sharing content | 
-| 22. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
-| 23. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
-| 24. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
-| 25. | 🟨 | | [Statuz](https://statuz.gg) | MacOS | Cross-post to X, BlueSky and Mastodon straight from your menu bar |
-| 26. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
-| 27. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
+| 21. | 🟥 | | [Wavve](https://wavve.co/) | Web | Turn audio into animated videos for sharing |
+| 22. | 🟥 | | [Zubtitle](https://zubtitle.com/) | Web | Automatically add captions to any video |
+| 23. | 🟥 | | [SoundMadeSeen](https://soundmadeseen.com/) | Web | Create animated videos for sharing, add captions and create text content |
+| 24. | 🟨 | | [Statuz](https://statuz.gg) | MacOS | Cross-post to X, BlueSky and Mastodon straight from your menu bar |
+| 25. | 🟩 | [❋](https://github.com/non-npc/No-WEBP) | [No-WEBP](https://github.com/non-npc/No-WEBP) | Javascript | Chrome plugin to force original image formats (GIF, PNG, JPG) instead of WebP/AVIF |
+| 26. | 🟦 | | [WAVconverter](https://www.wavconverter.com/) | Web | Fast, free, secure audio file conversion for musicians and creators. |
 
 * * *
 
