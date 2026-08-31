@@ -244,29 +244,28 @@ Apps that can be used across multiple social media apps.
 | 10. | 🟪 | | [Kizie](https://kizie.co) | Web | Cleaner, better way to browse Twitter |
 | 11. | 🟨 | | [Megablock](https://megablock.xyz/) | Web | Block the tweet, its author, and every single person who liked it. |
 | 12. | 🟩 | | [Mugshot Bot](https://mugshotbot.com/) | Web | Automated link previews |
-| 13. | 🟪 | [❋](https://github.com/zedeus/nitter) | [Nitter.net](https://github.com/zedeus/nitter) | Web | Replace twitter.com with nitter.net to browse Twitter anonymously |
-| 14. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
-| 15. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images |
-| 16. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
-| 17. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
-| 18. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
-| 19. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
-| 20. | 🟫 | [❋](https://github.com/Xquik-dev/tweetclaw) | [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw, npm | Automation plugin: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws. |
-| 21. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
-| 22. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
-| 23. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
-| 24. | 🟫 | | [TwexAPI](https://twexapi.io) | Web, API, MCP, Agent, AI | Affordable X/Twitter API replacement for developers |
-| 25. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
-| 26. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
-| 27. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
-| 28. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads |
-| 29. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
-| 30. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
-| 31. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
-| 32. | 🟨 | | [Xbase Extension](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli) | Extension | Export your X Bookmarks for free |
-| 33. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
-| 34. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
-| 35. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
+| 13. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
+| 14. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images |
+| 15. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
+| 16. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
+| 17. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
+| 18. | 🟨 | | [Thread Reader](https://threadreaderapp.com/) | Web/Bot | Read and share Twitter threads easily |
+| 19. | 🟫 | [❋](https://github.com/Xquik-dev/tweetclaw) | [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw, npm | Automation plugin: search tweets, post tweets and replies, export followers, run monitors and webhooks, send DMs, and run giveaway draws. |
+| 20. | 🟪 | | [Tweetbot](https://tapbots.com/tweetbot/) | MacOS, iOS | alternative client |
+| 21. | 🟨 | | [Tweetfull](https://tweetfull.com/) | Web | Growth-hacking and automation tool |
+| 22. | 🟫 | [❋](https://github.com/tweepy/tweepy) | [Tweepy](https://www.tweepy.org/) | Python | Twitter API client |
+| 23. | 🟫 | | [TwexAPI](https://twexapi.io) | Web, API, MCP, Agent, AI | Affordable X/Twitter API replacement for developers |
+| 24. | 🟨 | | [Twiks](https://chromewebstore.google.com/detail/twiks/pkmjihonggeefhkldlbdnpnhecgfgojc) | Extension | Adds special features like undo button |
+| 25. | 🟩 | | [Twitter Circle](https://twittercircle.com/) | Web | Create your own Twitter interaction circle (with no rate limits) |
+| 26. | 🟨 | | [Twitter Picker](https://twitterpicker.com/) | Web | Random Twitter retweet picker for giveaways/raffles |
+| 27. | 🟨 | | [Typefully](https://typefully.app/) | Web | Distraction-free editor to write & publish tweets and threads |
+| 28. | 🟨 | | [TWMate](https://twmate.com/) | Web | Twitter Video & GIF downloader |
+| 29. | 🟨 | | [TwitterSparkle](https://twittersparkle.com/) | Web | Download Twitter Videos & GIFs |
+| 30. | 🟨 | | [Xbase](https://xbase.so) | Web | Get more knowldge from X bookmarks |
+| 31. | 🟨 | | [Xbase Extension](https://chrome.google.com/webstore/detail/ipldmffgjegnflofelcomladejjllfli) | Extension | Export your X Bookmarks for free |
+| 32. | 🟫 | [❋](https://github.com/Xquik-dev/x-twitter-scraper) | [Xquik](https://xquik.com) | Web, API, MCP | X automation platform with REST API, webhooks, SDKs, and MCP access |
+| 33. | 🟫 | | [tweet.md](https://tweet.md/) | Web, API | Convert X posts, threads, Articles, and profiles to clean Markdown for AI, research, and archives |
+| 34. | 🟥 | | [hhhtwi.com](https://hhhtwi.com/) | Web | Download video, GIFs and photos from twitter.com, x.com or t.co links in original quality |
 
 * * *
 
